@@ -11,6 +11,6 @@ Informaçõe do programa:
   Nome do icone: Logo.png  
   Nome do arquivo do programa: Genius.py  
   Tipo de programa: Com Interface grafica  
-  Versão da linguagem utlizada quando o programa foi feito: Python 3.9.2
-  Versão do programa: 1.0
+  Versão da linguagem utlizada quando o programa foi feito: Python 3.9.2  
+  Versão do programa: 1.0  
   O que o programa faz: O programa é o famoso jogo genius no qual vc tem que acertar as sequencia de cores.
