@@ -2,7 +2,7 @@
 Informações de quem fez:  
   Arquivo feito por: Breno Bernardo da Silva Cardoso  
   Link de usuario do GitHub: https://github.com/BrenoCardoso2002  
-  Linkedin: https://www.linkedin.com/in/breno-cardoso-4087b0205/  
+  Linkedin: https://www.linkedin.com/in/breno-bernardo-da-silva-cardoso/
 
 Informaçõe do programa:  
   Linguagens do programa: Pyhton  
